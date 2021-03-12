@@ -7,4 +7,4 @@ The work is done for the follwing project. It will be really great to have some 
 https://ieeexplore.ieee.org/abstract/document/8980768/
 
 ISSUE: 
-If it says  'No ports available', probably your serial communication port is busy. Try clear that or simply restart. 
+If it says  'No ports available', probably your serial communication port is busy. Try to clear that or simply restart. 
